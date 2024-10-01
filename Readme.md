@@ -15,6 +15,11 @@ The app is designed to be used by me and other creatives.
 - PDF Export: Generate invoices in PDF format for easy sharing and printing.
 - Dynamic Tax Calculation: Calculate total amounts with adjustable IRPF and IVA rates.
 
+<img width="689" alt="Porsupuestapp v1 - 1" src="https://github.com/user-attachments/assets/a093573a-ecc0-4344-99b6-fab32de020e3">
+<img width="691" alt="Porsupuestapp v1 - 3" src="https://github.com/user-attachments/assets/159ec94c-13bd-441b-b127-801137975d48">
+<img width="690" alt="Porsupuestapp v1 - 2" src="https://github.com/user-attachments/assets/9ac76b70-98d7-444f-bd0a-cea8a3bb9e06">
+
+
 ## Requirements
 Python 3.7 or higher
 Flet
