@@ -1,5 +1,7 @@
 # Porsupuestapp
 
+![icon.png]
+
 This was originally my final project for a Bootcamp, initially make with TkInter.
 I wanted to give a try to Flet and see what I could do by myself.
 This app is a simple invoice and budget creation application developed using Python and Flet. It allows users to create and manage invoices efficiently, with features for adding items, calculating totals, and generating PDF invoices. The application also supports client and professional data management, ensuring that users can keep track of their billing information effortlessly.
